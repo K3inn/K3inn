@@ -22,7 +22,7 @@ Buscando sempre minha evolução!
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Python e C</strong>
+  🦄 Linguagens: <strong>TypeScript/Javascript, Python, C, C#, Lua</strong>
 </p>
 
 <p align="left">
